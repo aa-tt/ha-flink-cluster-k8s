@@ -15,3 +15,4 @@ then lastly the deployments
 
 ```kubectl create -f ./deployment/ ```
 
+https://medium.com/hepsiburadatech/high-available-flink-cluster-on-kubernetes-setup-73b2baf9200e
